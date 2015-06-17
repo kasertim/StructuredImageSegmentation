@@ -36,15 +36,15 @@ Yi-Ting Chen, Jimei Yang, Ming-Hsuan Yang, "Extracting Image Regions by Structur
     Yi-Ting Chen, Jimei Yang and Ming-Hsuan Yang, In WACV, 2015
 
     BibTex:
-    @inproceedings{WACV15_YTChen,
-     author = {Yi-Ting Chen, Jimei Yang and Ming-Hsuan Yang},
-     title = {Extracting Image Regions by Structured Edge Prediction},
-     booktitle = {WACV},
-     year = {2015},
-     location = {Waikoloa Beach, HI},
-     pages = {1060 -- 1067},
-     doi = {10.1109/WACV.2015.146},
-     publisher = {IEEE}
+	@inproceedings{WACV15_YTChen,
+	author = {Yi-Ting Chen, Jimei Yang and Ming-Hsuan Yang},	
+	title = {Extracting Image Regions by Structured Edge Prediction},
+	booktitle = {WACV},
+	year = {2015},
+	location = {Waikoloa Beach, HI},
+	pages = {1060 -- 1067},
+	doi = {10.1109/WACV.2015.146},
+	publisher = {IEEE}
     } 
  
 
