@@ -9,6 +9,7 @@ Yi-Ting Chen, Jimei Yang, Ming-Hsuan Yang, "Extracting Image Regions by Structur
 2. Note:
  
     It includes the redistributions of 
+    
     1) Pablo Arbelaez's gPb algorithm code: http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html. The code is under "external" folder
     2) Piotr Dollar's structured edge detection code is included, which is the Version 1.0 (11/12/2013) - initial version corresponding to his ICCV 2013 paper
     3) I modified the version 1.0 code and redistribute in this package. I include the licence.txt from "Structured Edge Detection Toolbox," which is a source code package for   
